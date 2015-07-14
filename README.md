@@ -230,3 +230,4 @@ class Example extends CI_Controller
   }
 }
 ```
+More information about API: https://www.tumblr.com/docs/en/api/v2
